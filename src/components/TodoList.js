@@ -47,3 +47,5 @@ return(
 }
 
 export default TodoList;
+
+//This course was very informative!
